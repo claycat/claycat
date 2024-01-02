@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catensia&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claycat&show_icons=true&theme=radical)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=catenary)](https://solved.ac/유저네임)
 
 <div align=center><h1>Skills</h1></div>
