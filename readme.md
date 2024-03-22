@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<div align=center><h1>Github Stats</h1></div>
+<div align=center><h1>Github Stats</h1>
 <div style="display: flex; flex-direction: row;">
 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=claycat&show_icons=true&theme=radical" style="height: 15vh;"  />
@@ -21,14 +21,16 @@
  &nbsp
  &nbsp
  &nbsp
-
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claycat&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" style="height: 15vh;"  />
+</div>
 </div>
 <br>
 <br>
 
-<div align=center><h1>Problem Solving</h1></div>
+<div align=center><h1>Problem Solving</h1>
+
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=catenary)
+
 </div>
 <br>
 <br>
